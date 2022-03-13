@@ -1,2 +1,2 @@
-# Comprehensive-Practice
-综合实践
+# 使用方法
+> 下载后解压缩，然后自建项目。
