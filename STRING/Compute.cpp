@@ -80,6 +80,6 @@ double calculate(double& m,double& n,int f)
         return m*n;
 
         case 4:
-        return m-n;
+        return m/n;
     }
 }
